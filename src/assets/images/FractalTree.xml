@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:bf4fcef60ec2d5051c27b7184595c18f:1/1$ -->
+<TextureAtlas imagePath="FractalTree.png">
+    <SubTexture name="bark" x="91" y="3" width="60" height="60"/>
+    <SubTexture name="grass" x="82" y="173" width="800" height="69" frameX="0" frameY="-4" frameWidth="800" frameHeight="73"/>
+    <SubTexture name="leaf" x="58" y="3" width="29" height="66"/>
+    <SubTexture name="mouseCursor" x="3" y="3" width="51" height="86"/>
+    <SubTexture name="orange" x="3" y="173" width="75" height="75"/>
+    <SubTexture name="resetButton" x="3" y="93" width="156" height="76"/>
+</TextureAtlas>
